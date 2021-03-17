@@ -1,5 +1,5 @@
 # Proyect Login UI
-- Using HTML, CSS and JS
+- Using HTML and CSS
 - Visite in web: 
 
 ## My Social Media    
