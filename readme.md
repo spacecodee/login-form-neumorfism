@@ -1,5 +1,5 @@
 # Proyect Login UI
-- Using HTML and CSS
+- Using HTML, CSS and js
 - Visite in web: https://scodee-login-form.netlify.app/
 
 ## My Social Media    
